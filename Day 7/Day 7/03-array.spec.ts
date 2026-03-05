@@ -1,0 +1,10 @@
+let letters=['a','b','c','d']
+console.log(letters)
+letters.pop()
+console.log(letters)
+letters.push('f')
+console.log(letters)
+letters.shift()
+console.log(letters)
+letters.unshift('x','y')
+console.log(letters)
